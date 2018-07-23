@@ -1,0 +1,27 @@
+{
+  "name": "js-product-feature",
+  "version": "1.0.0",
+  "description": "Product feature design with javascript",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgokbas/product-feature.git"
+  },
+  "keywords": [
+    "product",
+    "feature",
+    "tag"
+  ],
+  "author": "kgokbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgokbas/product-feature/issues"
+  },
+  "homepage": "https://github.com/kgokbas/product-feature#readme"
+}
