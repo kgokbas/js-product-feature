@@ -1,10 +1,14 @@
 # js-product-feature
 
-Show amazing product features on product image. Thisplugin developped as a extension of jquery. 
+Show amazing product features on product image. This plugin developped as a extension of jquery. 
 
 ![Screenshot](https://kgokbas.github.io/js-product-feature/dist/assets/images/screenshot.jpg)
 
 
+
+## Demo & Example
+
+[https://kgokbas.github.io/js-product-feature/dist](https://kgokbas.github.io/js-product-feature/dist)
 
 
 ## Getting Started
@@ -32,7 +36,7 @@ Add these javascript dependencies in dist/assets/js
 <script type="text/javascript" src="./assets/js/main.js"></script>
 ```
 
-Add these css dependencies (javascript and stylesheet) in dist/assets/css
+Add these css dependencies in dist/assets/css
 ```
 <link rel="stylesheet" href="./assets/css/styles.css"/>
 ```
